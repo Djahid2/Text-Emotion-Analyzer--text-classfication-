@@ -100,7 +100,7 @@ Text Emotion/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Djahid2/Text-Emotion-Analyzer--text-classfication-
 cd "Text emotion"
 ```
 
