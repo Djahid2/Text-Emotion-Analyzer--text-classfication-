@@ -56,6 +56,7 @@ The project uses a transfer-learning approach:
 - Docker Compose
 
 ## Project structure
+```
 Text Emotion/
 ├── docker-compose.yml
 ├──backend
@@ -93,6 +94,7 @@ Text Emotion/
     │   └── 2-2.png
     └── types/
         └── index.ts
+```
 ## Getting started
 
 ### 1. Clone the repository
