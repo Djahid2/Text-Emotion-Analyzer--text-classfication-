@@ -1,4 +1,4 @@
-<img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/2cd7c371-60cb-406d-acab-2c0c1f5c0d32" /><img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/f5318687-9976-48de-8b71-f5280f726a4d" /># Text Emotion Analyzer
+# Text Emotion Analyzer
 
 A machine learning application that determines whether a text is positive or negative and provides an explanation using LIME. The project combines a transfer-learning-based embedding model with a modern web interface for user interaction.
 
@@ -124,13 +124,13 @@ docker compose down
 ## Demo screenshots
 
 
-```md
+
 ## Demo
 <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/29764f0d-6647-414a-81bc-70e7c0c760d9" />
 <img width="1875" height="925" alt="image" src="https://github.com/user-attachments/assets/e188cf5c-a968-46fc-915a-7dd987041ca3" />
 
 
-```
+
 
 ## Example prediction
 
